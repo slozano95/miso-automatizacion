@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Reporte de error
+about: Cree un reporte de error con la plantilla predefinida.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
